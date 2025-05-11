@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Abdul qadir khan is DON !!!'
+    return 'india and paistan is DON !!!'
